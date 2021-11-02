@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OldHank
-- 👀 I’m interested in mastering the profession of a programmer/
-- 🌱 I’m currently learning on my own
+- 👀 I’m interested in mastering the profession of a programmer.
+- 🌱 I’m currently learning on my own.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
